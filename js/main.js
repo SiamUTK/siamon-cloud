@@ -1,0 +1,1 @@
+console.log('Siam On Cloud: JS loaded');
